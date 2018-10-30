@@ -1,0 +1,509 @@
+.nivo-controlNav{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	margin-top: -24px;
+	z-index: 10;
+	position: relative;
+}
+#es_txt_button{
+	background: #000000 !important;
+	color: #ffffff;
+	font-size: 15px;
+    border: none!important;
+    display: block;
+    width: 75%;
+    line-height: 1em!important;
+    padding: 12px 15px!important;
+    text-align: center;
+    text-transform: none!important;
+    font-weight: 400!important;
+    overflow: hidden;
+    position: relative;
+    -moz-border-radius: 4px!important;
+    -webkit-border-radius: 4px!important;
+    border-radius: 4px!important;
+    border-top: 1px solid transparent!important;
+    border-bottom: 2px solid rgba(0,0,0,.1)!important;
+    opacity: 1;
+}
+#masthead{
+	background: #fff !important;
+	padding-top: 20px; 
+	padding-bottom: 20px;
+}
+#navi.sticky-nav {
+    position: fixed;
+    z-index: 1000;
+	/*max-width: 1020px;*/
+	top: 0;
+}
+#mvcwid, #mvccount, #mvctable, #mvctable table td{
+	padding-left: 0 !important;
+}
+h1.site-title {
+    margin-top: 10px !important;
+    font-size: 27px !important;
+}
+.site-description, h2.site-description a {
+    font-size: 20px !important;
+	color: #1f14c4 !important;
+	text-align: center;
+}
+#site-name-section{
+	float: left;
+	width: 67%;
+	padding-left: 10px !important; 
+	/*margin-top: 15px !important; */
+	margin-bottom: 10px !important;
+}
+div.logo{
+	/*margin-left: -30px !important;*/
+    padding-right: 0 !important;
+	float: left;
+}
+.logo-text{
+	color: #000;
+    font-weight: bold;
+    font-size: 82%;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: -1px;
+}
+.ou-logo{
+	padding-top: 16px !important;
+	width: 13%;
+}
+.vber-logo{
+	padding-top: 10px;
+	width: 20%;
+}
+.login-section{
+	padding-top: 15px;
+	padding-left: 30px;
+}
+.logged-section{
+	padding-top: 22px;
+	padding-left: 10px;
+}
+.user-display-name{
+	margin-bottom: 8px;
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+}
+.login-title{
+	width: 135px;
+	padding: 4px 20px;
+	background-color: #000000 !important;
+}
+.login-title a{
+	color: #ffffff !important;
+	text-decoration: none;
+}
+a.logged-title{
+	padding: 6px 20px;
+	background-color: #000000 !important;
+	color: #ffffff !important;
+	text-decoration: none;
+}
+#search1{
+	margin-top: 40px !important;
+	margin-left: 50px !important;
+}
+span#designer{
+	background: #00305e;
+    font-size: 13px;
+    /* margin: 2px 0 15px 0; */
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.um-84.um input.um-button[type="submit"], .um-83.um input.um-button[type="submit"], .um-um_password_id.um input.um-button[type="submit"]{
+    background: #000000 !important;
+}
+
+.file_userdata_label{
+	margin-bottom: 10px !important;
+}
+
+label.file_userdata_label {
+    display: block !important;
+}
+
+div.file_userdata_container {
+    /*min-height: 80px;*/
+}
+
+div.file_userdata_fieldwrapper, div.file_userdata_fieldwrapper_required, div.file_userdata_fieldwrapper_required_empty {
+    height: 100% !important;
+    margin-bottom: 20px;
+}
+
+div.file_div_clean, 
+div.file_userdata_fieldwrapper, 
+div.file_userdata_fieldwrapper_required, 
+div.file_userdata_fieldwrapper_required_empty{
+    width: 100% !important;
+}
+
+article.post .entry-meta,
+article.post footer.entry-footer {
+    display: none;
+}
+#calendar_wrap #wp-calendar thead tr th {
+    text-align: center !important;
+}
+#wp-calendar {
+    width: 100%;
+    font-size: 12px;
+    font-weight: 300;
+    border-collapse: separate;
+    border-spacing: 3px;
+    margin-left: -3px;
+    margin-bottom: 0 !important;
+}
+#wp-calendar caption {
+    display: none;
+}
+#wp-calendar tbody td {
+    /*margin-bottom:10px;*/
+    color: #fff;
+    text-align: center;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #f4f4f4;
+    padding: 3px;
+}
+#wp-calendar tbody td:hover {
+    border-color: #e2e2e2;
+}
+#wp-calendar tbody td.pad {
+    border: 0;
+}
+#wp-calendar tbody td#today {
+    color: #fff;
+    border-color: #F79633;
+    background: #FD5F00;
+}
+#wp-calendar tfoot td#prev a,
+#wp-calendar tfoot td#next a {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    text-transform: uppercase;
+    bottom: -9px;
+    margin-bottom: 1px;
+}
+#wp-calendar tfoot td#prev {
+    text-align: left;
+}
+#wp-calendar tfoot td#next {
+    text-align: right;
+}
+#wp-calendar thead th {
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#wp-calendar tfoot td#prev a:hover,
+#wp-calendar tfoot td#next a:hover {
+    color: #F79633;
+}
+
+#secondary {
+	background-color: #f5f5f5;
+    padding-top: 20px;
+}
+
+h4.widget-title, .border1 {
+    background: url('../images/backg.png')no-repeat bottom left;
+    padding-bottom: 6px;
+}
+footer h4.widget-title, .border2 {
+    background: url('../images/backg2.png')no-repeat bottom left !important;
+}
+.border2 {
+	height: 3px;
+}
+
+aside#text-2 .textwidget, aside#text-3 .textwidget{
+	background: #fff;
+    padding: 6px 10px;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex.space {
+	justify-content: space-around; 
+}
+
+.flex.space-b {
+	justify-content: space-between; 
+}
+
+.flex.center {
+	justify-content: center; 
+}
+
+.flex.wrap {
+	flex-wrap: wrap;
+}
+
+.flex.align-center {
+	align-items: center;
+}
+
+.vber-title1 {
+	color: #FD5F00;
+	font-size: 160%;
+	font-weight: bold;
+}
+.vber-title2 {
+	color: #FD5F00;
+	font-size: 125%;
+	font-weight: bold;
+}
+.vber-title3 {
+	color: #00305E;
+	font-size: 90%;
+	font-weight: bold;
+}
+.vber-title3 a {
+	color: #00305E;
+	text-decoration: none;
+}
+.vber-title4 {
+	text-align: center; 
+	padding-top: 30px; 
+	color: #FD5F00;
+	font-size: 190%;
+	font-weight: bold;
+}
+
+.nivo-caption {
+	/*display: none !important;*/
+}
+
+.speaker-menu-div .speaker-menu-ul {
+    border-right: 1px solid #ededed;
+}
+
+.speaker-menu-ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #ededed;
+    margin-bottom: 20px;
+}
+
+.speaker-menu-ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.speaker-menu-ul li a {
+	border-right: 1px solid #ededed !important;
+	text-decoration: none;
+    border-bottom: 1px solid #ededed;
+    display: block;
+    height: auto;
+    font-weight: normal;
+    font: 14px/39px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
+    color: #333333;
+}
+
+.speaker-menu-ul li a.active {
+	font-weight: bold;
+	color: #FD5F00;
+}
+
+.speaker-menu-ul li a:hover {
+	font-weight: bold;
+	color: #FD5F00;
+	cursor: pointer;
+}
+
+#myslideshow img {
+	/*max-height: 425px;*/
+}
+
+.staff-info {
+	padding-left: 0;
+    padding-bottom: 20px;
+}
+
+.staff-section-content {
+	background: #23415f;
+    color: #fff;
+    font-size: 90%;
+	width: 100%;
+    height: 400px;
+    overflow: auto;
+	display: none;
+	margin-bottom: 20px;
+}
+
+.staff-section-content .content-detail{
+	padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+	padding-bottom: 20px;
+}
+
+.staff-close-button {
+    background: url('../images/close-button.png');
+    display: block;
+    text-indent: -9999px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 45px;
+    height: 44px;
+    z-index: 3;
+    cursor: pointer;
+}
+
+.staff-close-button:hover {
+	background-position: 0 -45px;
+}
+
+.staff-section-content .jspVerticalBar .jspArrowUp {
+    background-image: url('../images/arrow-up.png');
+}
+.staff-section-content .jspVerticalBar .jspArrowDown {
+    background-image: url('../images/arrow-down.png');
+}
+.staff-section-content .jspVerticalBar .jspArrow:hover {
+    background-color: #ef8d53;
+}
+.staff-section-content .jspVerticalBar .jspArrow {
+    height: 20px;
+    background-color: #4e4e4e;
+    background-repeat: no-repeat;
+    background-position: center;
+	cursor: pointer;
+}
+.staff-section-content .jspVerticalBar .jspDrag {
+    background-color: #ef8d53;
+}
+.staff-section-content .jspVerticalBar .jspTrack {
+    background-color: #000;
+}
+
+.img-staff {
+	height: 200px;
+    width: 100%;
+}
+.staff-hiring {
+	padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 45px;
+    color: #fff;
+    background: #23415f;
+    font-size: 120%;
+    font-weight: bold;
+}
+.staff-desc {
+	position: relative;
+	line-height: 22px;
+}
+.staff-name {
+	font-weight: bold;
+}
+.staff-name2 {
+	color: #FD5F00;
+	font-weight: bold;
+	font-size: 140%;
+	padding-bottom: 5px;
+}
+.staff-title2 {
+	font-weight: bold;
+	font-size: 110%;
+}
+
+.staff-clickable {
+	background: url('../images/expand.png') no-repeat;
+    position: absolute;
+    right: 0;
+    bottom: 15px;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+    background-size: contain;
+}
+
+.staff-clickable.current {
+	
+}
+
+.footer-text {
+	text-align: left;
+	padding-bottom: 5px;
+}
+
+#calendar-2{
+	padding-left: 10px !important;
+}
+#text-4{
+	padding-right: 30px !important;
+}
+
+ul.dashed {
+  list-style-type: none;
+  margin-left: 22px;
+}
+ul.dashed li:before {
+  content: '\2014';
+  position: absolute;
+  margin-left: -20px;
+}
+.staff-desc .staff-name {
+	font-weight: bold;
+    color: #00305e;
+    text-align: center;
+    padding-right: 15px;
+}
+.staff-desc .staff-title {
+    font-size: 95%;
+    font-weight: bold;
+    line-height: 10px;
+    color: #fd5f00;
+    padding-top: 2px;
+    text-align: center;
+    padding-right: 15px;
+}
+
+.staff-desc .staff-title3 {
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 18px;
+    color: #fd5f00;
+    line-height: 16px;
+}
+
+footer h4.widget-title {
+	white-space: nowrap;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+	.sm-clean a span.sub-arrow {
+		right: 12px;
+	}
+}
+@media (min-width: 1024px) and (max-width: 1295px) {
+	.sm-clean a span.sub-arrow {
+		right: 15px;
+	}
+}
+@media (max-width: 767px) {
+	
+}
+

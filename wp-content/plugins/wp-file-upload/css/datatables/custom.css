@@ -1,0 +1,13 @@
+select {
+    height: 25px !important;
+    padding: 3px 5px !important;
+}
+
+.middle-center{
+	vertical-align:middle !important;
+	text-align:center !important;
+}
+
+tr.main-filter th {
+    border-bottom: 0 !important;
+}
