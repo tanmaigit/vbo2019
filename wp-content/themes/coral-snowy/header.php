@@ -58,23 +58,23 @@
 				<!--logo-->
 				<div>
 					<a href="<?php echo get_site_url();?>">
-					<img style="height: 104px;width: 360px;" src="<?php echo get_site_url();?>/wp-content/uploads/2017/12/VBER-1.png">
+					<img style="height: 104px;width: 360px;" src="http://vber.ou.edu.vn/files/2018/10/VBER2019.png">
 					</a>
 				</div>
 				<div style="padding-left: 20px;line-height: 16px;">
 					<div class="vber-title1">VIETNAM'S</div>
 					<div class="vber-title2" style="padding-top: 12px">BUSINESS & ECONOMICS RESEARCH CONFERENCE</div>
 					<div class="vber-title3" style="padding-top: 8px; font-size:125%">
-						<a href="http://www.marriott.com/hotels/travel/sgnbr-renaissance-riverside-hotel-saigon" target="_blank">Renaissance Riverside Hotel Saigon, Vietnam</a>
+						<a href="http://www.caravellehotel.com" target="_blank">Caravelle Saigon, Vietnam</a>
 					</div>
-					<div class="vber-title3" style="padding-top: 6px;">8-15 Ton Duc Thang Street, Ben Nghe Ward, District 1, Ho Chi Minh City</div>
-					<div class="vber-title3">22<sup>nd</sup>-24<sup>th</sup> July 2018</div>
+					<div class="vber-title3" style="padding-top: 6px;">19-23 Lam Son Square, District 1, Ho Chi Minh City,  Vietnam</div>
+					<div class="vber-title3">18<sup>th</sup>-20<sup>th</sup> July 2019</div>
 				</div>
 			</div>
 		</div><!-- .site-branding -->
 		
 		<div class="vber-title4" style="width:100%">
-			<?php echo str_replace('\n', '<br>', get_theme_mod('top_text', '')); ?>
+		VIETNAM'<span style="color: #00305E;">s</span><div style="color: #00305E;">PLACE IN THE ASIA PACIFIC REGION</div>
 		</div><!-- .site-branding -->
 	</header><!-- #masthead -->
 	
