@@ -109,7 +109,7 @@
 				<div style="color: #fff;text-align: right">Conference starts in</div>
 			</div>
 			<div class="" style="padding-right: 50px;">
-			<?php echo do_shortcode('[ujicountdown id="event" expire="2018/07/22 16:00" hide="true" url="" subscr="" recurring="" rectype="second" repeats=""]'); ?>
+			<?php echo do_shortcode('[ujicountdown id="event" expire="2019/07/19 8:00" hide="true" url="" subscr="" recurring="" rectype="second" repeats=""]'); ?>
 			</div>
 		</div>
 	</div>
